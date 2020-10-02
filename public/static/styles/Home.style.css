@@ -1,0 +1,13 @@
+.banner {
+    width: 100%;
+}
+
+.list {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    marign-top: 30px;
+}

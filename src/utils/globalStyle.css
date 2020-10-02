@@ -1,0 +1,12 @@
+/*  Reset global de código */
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html, 
+body {
+    height: 100%;
+    font-family: sans-serif;
+}
